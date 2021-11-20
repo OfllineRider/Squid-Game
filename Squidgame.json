@@ -1,9 +1,9 @@
 
 {
-	"AppID"           :  "ca-app-pub-4617486367603338~8848773482",
-	"BannerID"        :  "ca-app-pub-4617486367603338/7195946319",
-	"InterstitialID"  :  "ca-app-pub-4617486367603338/2283365134",
-	"RewardID"        :  "ca-app-pub-4617486367603338/7152548438",
+	"AppID"           :  "",
+	"BannerID"        :  "",
+	"InterstitialID"  :  "",
+	"RewardID"        :  "",
 	"SdkLOVIN"        :  "TsRqgRAOViyFO-UFg7cXgkRNIoQh8rnZXq1ioGvbqh34ZRzqJ4wXVWtdVR_-PHR9So58x55bCoQelo3KIizu1D",
 	"IntersLOVIN"     :  "7343683201fc98fa"
 
